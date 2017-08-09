@@ -1,9 +1,9 @@
-#Logistic regression
+# Logistic regression
 
-##Overview 
+## Overview 
 Logistic regression model to predict whether a student gets admitted into a university based on their results in two exams.
 
-##Dependencies
+## Dependencies
  * numpy
  * pandas
  * matplotlib
